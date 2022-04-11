@@ -17,7 +17,6 @@ int main(int argc, char *argv[])
   QApplication app(argc, argv);
 
   PPUViewer tPPUViewer;
-
   tPPUViewer.show();
 
   return app.exec();
